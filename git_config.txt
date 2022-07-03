@@ -1,0 +1,8 @@
+1) Instalation git -> Add options for git bash and gui on context menu.
+2) git config --global user.name 'name user'
+3) git config --global user.email 'email@example.com'
+4) git config --global core.editor 'code --wait'
+4.5) git config --global -e 
+//4 +4.5 for vscode as main editor
+5)git config --global core.autocrlf 'example'
+    //example: True for WIN and Input for MAC and Linux
